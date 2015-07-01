@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F21BC05D-C3C0-45DE-B5A8-40E1910219D4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CircularSelectionIOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>68B433DB8D4B05A78FFF9E55D05814EABC451201</key>
+		<string>https://github.com/asmaan/CircularSelectionIOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CircularSelectionIOS.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>68B433DB8D4B05A78FFF9E55D05814EABC451201</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/asmaan/CircularSelectionIOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>68B433DB8D4B05A78FFF9E55D05814EABC451201</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>68B433DB8D4B05A78FFF9E55D05814EABC451201</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CircularSelectionIOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
