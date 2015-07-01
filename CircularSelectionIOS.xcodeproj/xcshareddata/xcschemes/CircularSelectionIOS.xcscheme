@@ -42,16 +42,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F67A4F061B2D624C000FF0FE"
-               BuildableName = "CircularSelectionIOSTests.xctest"
-               BlueprintName = "CircularSelectionIOSTests"
-               ReferencedContainer = "container:CircularSelectionIOS.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
